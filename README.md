@@ -61,4 +61,5 @@ Bu proje, restoranların dijitalleşmesine katkı sağlayarak hem müşterilere 
 ![image](https://github.com/user-attachments/assets/9af03505-0a66-4452-9ab9-f77dd3a2c6f7)
 ![image](https://github.com/user-attachments/assets/1ce77865-0ab9-4407-b1e8-df999abfe8ba)
 ![image](https://github.com/user-attachments/assets/c1ce0a1f-ca78-4fe1-ad53-017a6ac7b31a)
+![image](https://github.com/user-attachments/assets/ad214e95-4410-4ca3-8663-b7cbdedaca0d)
 
